@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React App - Breaking Bad API
+
+Using the breaking bad api to create a small app to show and filter the character info
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
